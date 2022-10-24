@@ -25,4 +25,12 @@ This is a simple nginx docker setup.
 
 ## Motivation
 
-This was done to try out ngrok but you may use it to test a plethora of things!!!
+This was done to try out [ngrok](https://ngrok.com/) but you may use it to test a plethora of things!!!
+
+.
+
+.
+
+.
+
+and now [localtunnel](https://localtunnel.github.io/www/)
