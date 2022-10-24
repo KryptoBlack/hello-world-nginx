@@ -16,6 +16,10 @@ docker stop hello-world-nginx
 echo removing...
 docker rm hello-world-nginx
 ;;
+console)
+echo opening bash...
+docker exec -it hello-world-nginx /bin/bash
+;;
 logs)
 docker logs -f hello-world-nginx
 ;;
